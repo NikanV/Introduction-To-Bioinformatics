@@ -20,8 +20,8 @@
 [General Info]
 
 	Data Type                               = nucleotide (non-coding)
-	No. of Taxa                             =       23
-	No. of Sites                            =    35509
+	No. of Taxa                             =       33
+	No. of Sites                            =    47123
 	Data File                               = './outputs/aligned_sequences.fasta'
 	Settings File                           = './trees/NJ/mega_nj.mao'
 	Command Line                            = megacc -a ./trees/NJ/mega_nj.mao -d ./outputs/aligned_sequences.fasta -o ./trees/NJ/phylo_NJ.tree
@@ -54,8 +54,8 @@
 
 [Analysis Statistics]
 
-	Start Time                              = 7-2-24 18:33:10
-	End Time                                = 7-2-24 18:33:11
-	Execution Time                          =    1.015 (seconds)
+	Start Time                              = 7-2-24 21:38:11
+	End Time                                = 7-2-24 21:38:14
+	Execution Time                          =    2.979 (seconds)
 	Max Heap Memory Used                    = 7.544 (MB)
-	Sum of branch lengths                   =    3.413
+	Sum of branch lengths                   =    6.638
