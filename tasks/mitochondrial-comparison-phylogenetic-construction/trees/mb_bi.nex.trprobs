@@ -1,0 +1,35 @@
+#NEXUS
+[ID: 0743372071]
+[This file contains the trees that were found during the MCMC
+search, sorted by posterior probability. "p" indicates the
+posterior probability of the tree whereas "P" indicates the
+cumulative posterior probability.]
+
+begin trees;
+   translate
+    1 Eudynamys_scolopaceus_NC_060520_1,
+    2 Apis_mellifera_NC_051932_1,
+    3 Pelecanus_crispus_OR620163_1,
+    4 Rattus_norvegicus_NC_001665_2,
+    5 Gallus_gallus_NC_053523_1,
+    6 Myotis_lucifugus_NC_029849_1,
+    7 Tribolium_castaneum_NC_003081_2,
+    8 Anser_cygnoides_NC_023832_1,
+    9 Ovis_aries_NC_001941_1,
+   10 Tyto_alba_MZ318036_1,
+   11 Drosophila_melanogaster_NC_024511_2,
+   12 Apteryx_australis_MN356385_1,
+   13 Spheniscus_demersus_NC_022817_1,
+   14 Corvus_brachyrhynchos_NC_026461_1,
+   15 Mus_musculus_NC_005089_1,
+   16 Dromaius_novaehollandiae_NC_002784_1,
+   17 Anas_platyrhynchos_NC_009684_1,
+   18 Pteropus_vampyrus_NC_026542_1,
+   19 Struthio_camelus_NC_002785_1,
+   20 Aquila_nipalensis_NC_045042_1,
+   21 Cygnus_cygnus_NC_027095_1,
+   22 Taeniopygia_guttata_NC_007897_1,
+   23 Aptenodytes_forsteri_NC_027938_1;
+   tree tree_1 [p = 0.917, P = 0.917] = [&W 0.916667] (((20,(23,13)),(((19,(16,12)),((17,(21,8)),5)),(10,((22,14),(((9,(18,6)),(15,4)),(7,(11,2))))))),3,1);
+   tree tree_2 [p = 0.083, P = 1.000] = [&W 0.083333] (10,((((19,(16,12)),((17,(21,8)),5)),((22,14),(((9,(18,6)),(15,4)),(7,(11,2))))),((20,(23,13)),3)),1);
+end;
