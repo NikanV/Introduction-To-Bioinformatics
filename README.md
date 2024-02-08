@@ -16,3 +16,6 @@
 - [MrBayes](https://nbisweden.github.io/MrBayes/manual.html/) - required for constructing the phylogenetic tree using the BI(Bayesian Inference) Algorithm
 - [FigTree](https://github.com/rambaut/figtree/releases) (Jar file included in the Applications directory) - required for visualizing the phylogenetic trees
   - You need [Java](https://www.oracle.com/java/technologies/downloads/) (version 6 or later) in order to run the jar file for MrBayes
+
+## Neural and Immunological Responses of Zebra Finches
+- All of the required libraries are included in the notebook
